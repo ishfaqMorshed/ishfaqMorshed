@@ -5,13 +5,13 @@ A Computer Science and Engineering graduate from **BRAC University** 🎓.
 
 ### 🖥️ Programming Languages & Tools:
 
-| ![Python](https://img.icons8.com/?size=100&id=W3gfKnMhfM6h&format=png&color=000000) | ![SQL](https://img.icons8.com/?size=100&id=13406&format=png&color=000000) | ![RDBMS](https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000) |
+| ![Python](https://img.icons8.com/ios/50/000000/python.png) | ![SQL](https://img.icons8.com/ios/50/000000/database.png) | ![RDBMS](https://img.icons8.com/ios/50/000000/database.png) |
 |:--:|:--:|:--:|
 | **Python** | **SQL (Advanced)** | **RDBMS** |
 
 ### 🛠️ Software Quality Assurance (SQA):
 
-| ![Manual Testing](https://img.icons8.com/?size=100&id=undefined&format=png&color=000000) | ![API Testing:Postman](https://img.icons8.com/?size=100&id=undefined&format=png&color=000000) | ![REST API](https://img.icons8.com/?size=100&id=undefined&format=png&color=000000) | ![Test Case](https://img.icons8.com/?size=100&id=undefined&format=png&color=000000) | ![Load Testing](https://img.icons8.com/?size=100&id=undefined&format=png&color=000000) | ![Stress Testing](https://img.icons8.com/?size=100&id=undefined&format=png&color=000000) |
+| ![Manual Testing](https://img.icons8.com/ios/50/000000/bug.png) | ![API Testing](https://img.icons8.com/ios/50/000000/test.png) | ![REST API](https://img.icons8.com/ios/50/000000/api.png) | ![Test Case](https://img.icons8.com/ios/50/000000/clipboard.png) | ![Load Testing](https://img.icons8.com/ios/50/000000/loading.png) | ![Stress Testing](https://img.icons8.com/ios/50/000000/power.png) |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | **Manual Testing** | **API Testing** | **REST API** | **Test Case Development** | **Load Testing** | **Stress Testing** |
 

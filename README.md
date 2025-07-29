@@ -26,10 +26,10 @@ Feel free to reach out to me via email at:
 
 ---
 
-## 📺 Fun Media (SQL and SQA-related GIFs)
 
 
-Quality is assured 
+
+## Quality is assured 
 ![SQA GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhqM3EyeTFhMGhwam9uMWp6MDV4c3p4MnJibDA3ZmF6bDhibWk2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7WTL4qQCbbLLV2Pm/giphy.gif)
 
 ---

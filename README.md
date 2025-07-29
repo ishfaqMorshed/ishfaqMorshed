@@ -30,7 +30,7 @@ Feel free to reach out to me via email at:
 ## 📺 Fun Media (SQL and SQA-related GIFs)
 
 ### SQL-related GIF:
-![SQL GIF](https://media.giphy.com/media/xT0GqExv1mrpSHuy1y/giphy.gif)
+![SQL GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVwanZxN3YzNnFpMTRnMWVlaG5nOTcxMXNjd3EzZzdkMDd6enVvOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vISmwpBJUNYzukTnVx/giphy.gif)
 
 ### SQA-related GIF:
 ![SQA GIF](https://media.giphy.com/media/l1J9wFfblptVmAVo0/giphy.gif)

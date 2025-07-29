@@ -11,7 +11,7 @@ A Computer Science and Engineering graduate from **BRAC University** 🎓.
 
 ### 🛠️ Software Quality Assurance (SQA):
 
-| ![Manual Testing](https://img.icons8.com/?size=100&id=iNamA11qJFJq&format=png&color=000000) | ![API Testing](https://img.icons8.com/?size=100&id=32VTxWwd6gOB&format=png&color=000000) | ![REST API](https://img.icons8.com/?size=100&id=fuE9lK4QCkwn&format=png&color=000000) | ![Test Case](https://img.icons8.com/?size=100&id=RgBKcYs9ShAW&format=png&color=000000) | ![Load Testing](https://img.icons8.com/?size=100&id=4V3PMUWE1tYc&format=png&color=000000) | ![Stress Testing](https://img.icons8.com/color/48/000000/power.png) |
+| ![Manual Testing](https://img.icons8.com/?size=100&id=iNamA11qJFJq&format=png&color=000000) | ![API Testing](https://img.icons8.com/?size=100&id=32VTxWwd6gOB&format=png&color=000000) | ![REST API](https://img.icons8.com/?size=100&id=fuE9lK4QCkwn&format=png&color=000000) | ![Test Case](https://img.icons8.com/?size=100&id=RgBKcYs9ShAW&format=png&color=000000) | ![Load Testing](https://img.icons8.com/?size=100&id=4V3PMUWE1tYc&format=png&color=000000) | ![Stress Testing](https://img.icons8.com/?size=100&id=undefined&format=png&color=000000) |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | **Manual Testing** | **API Testing : Postman** | **REST API** | **Test Case Development** | **Load Testing** | **Stress Testing** |
 

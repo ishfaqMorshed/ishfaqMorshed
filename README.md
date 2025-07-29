@@ -4,12 +4,14 @@ A Computer Science and Engineering graduate from **BRAC University** 🎓.
 ## 🔧 Core Skills & Technologies
 
 ### 🖥️ Programming Languages & Tools:
-| ![Python](https://img.shields.io/badge/Python-3.9-blue) | ![SQL](https://img.shields.io/badge/SQL-Advanced-blue) | ![RDBMS](https://img.shields.io/badge/RDBMS-orange) |
+
+| ![Python](https://img.icons8.com/color/48/000000/python.png) | ![SQL](https://img.icons8.com/color/48/000000/database.png) | ![RDBMS](https://img.icons8.com/ios/50/000000/database.png) |
 |:--:|:--:|:--:|
 | **Python** | **SQL (Advanced)** | **RDBMS** |
 
 ### 🛠️ Software Quality Assurance (SQA):
-| ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-Active-green) | ![API Testing](https://img.shields.io/badge/API%20Testing-Active-yellowgreen) | ![REST API](https://img.shields.io/badge/REST%20API-Active-yellow) |
+
+| ![Manual Testing](https://img.icons8.com/ios/50/000000/bug.png) | ![API Testing](https://img.icons8.com/ios/50/000000/connection-status.png) | ![REST API](https://img.icons8.com/ios/50/000000/api.png) |
 |:--:|:--:|:--:|
 | **Manual Testing** | **API Testing** | **REST API** |
 | **Test Case Development** | **Load Testing** | **Stress Testing** |
@@ -25,8 +27,12 @@ Feel free to reach out to me via email at:
 
 ---
 
-## 📺 Fun Media (Demon Slayer GIF)
+## 📺 Fun Media (SQL and SQA-related GIFs)
 
-![Demon Slayer GIF](https://media.giphy.com/media/Ju5SGBd4Ir3e6/giphy.gif)
+### SQL-related GIF:
+![SQL GIF](https://media.giphy.com/media/xT0GqExv1mrpSHuy1y/giphy.gif)
+
+### SQA-related GIF:
+![SQA GIF](https://media.giphy.com/media/l1J9wFfblptVmAVo0/giphy.gif)
 
 ---

@@ -5,13 +5,13 @@ A Computer Science and Engineering graduate from **BRAC University** 🎓.
 
 ### 🖥️ Programming Languages & Tools:
 
-| ![Python](https://img.icons8.com/color/48/000000/python.png) | ![SQL](https://img.icons8.com/color/48/000000/database.png) | ![RDBMS](https://img.icons8.com/ios/50/000000/database.png) |
+| ![Python](https://img.icons8.com/ios/50/000000/python.png) | ![SQL](https://img.icons8.com/ios/50/000000/database.png) | ![RDBMS](https://img.icons8.com/ios/50/000000/database.png) |
 |:--:|:--:|:--:|
 | **Python** | **SQL (Advanced)** | **RDBMS** |
 
 ### 🛠️ Software Quality Assurance (SQA):
 
-| ![Manual Testing](https://img.icons8.com/ios/50/000000/bug.png) | ![API Testing](https://img.icons8.com/ios/50/000000/connection-status.png) | ![REST API](https://img.icons8.com/ios/50/000000/api.png) |
+| ![Manual Testing](https://img.icons8.com/ios/50/000000/bug.png) | ![API Testing](https://img.icons8.com/ios/50/000000/test.png) | ![REST API](https://img.icons8.com/ios/50/000000/api.png) |
 |:--:|:--:|:--:|
 | **Manual Testing** | **API Testing** | **REST API** |
 | **Test Case Development** | **Load Testing** | **Stress Testing** |

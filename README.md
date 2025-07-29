@@ -5,7 +5,7 @@ A Computer Science and Engineering graduate from **BRAC University** 🎓.
 
 ### 🖥️ Programming Languages & Tools:
 
-| ![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000) | ![SQL](https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000) | ![RDBMS](https://img.icons8.com/?size=100&id=undefined&format=png&color=000000) |
+| ![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000) | ![SQL](https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000) | ![RDBMS](https://img.icons8.com/?size=100&id=49733&format=png&color=000000) |
 |:--:|:--:|:--:|
 | **Python** | **SQL (Advanced)** | **RDBMS** |
 

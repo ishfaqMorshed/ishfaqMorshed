@@ -11,9 +11,9 @@ A Computer Science and Engineering graduate from **BRAC University** 🎓.
 
 ### 🛠️ Software Quality Assurance (SQA):
 
-| ![Manual Testing](https://img.icons8.com/color/48/000000/bug.png) | ![API Testing](https://img.icons8.com/color/48/000000/test.png) | ![REST API](https://img.icons8.com/color/48/000000/api.png) | ![Test Case](https://img.icons8.com/color/48/000000/clipboard.png) | ![Load Testing](https://img.icons8.com/color/48/000000/loading.png) | ![Stress Testing](https://img.icons8.com/color/48/000000/power.png) |
+| ![Manual Testing](https://img.icons8.com/color/48/000000/bug.png) | ![API Testing](https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000) | ![REST API](https://img.icons8.com/color/48/000000/api.png) | ![Test Case](https://img.icons8.com/color/48/000000/clipboard.png) | ![Load Testing](https://img.icons8.com/color/48/000000/loading.png) | ![Stress Testing](https://img.icons8.com/color/48/000000/power.png) |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| **Manual Testing** | **API Testing** | **REST API** | **Test Case Development** | **Load Testing** | **Stress Testing** |
+| **Manual Testing** | **API Testing : Postman** | **REST API** | **Test Case Development** | **Load Testing** | **Stress Testing** |
 
 ## 🧑‍💻 Projects
 
